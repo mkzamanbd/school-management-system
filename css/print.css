@@ -1,0 +1,18 @@
+
+		
+body{
+					display:block;
+					background: url(../img/gps_logo.png) fixed no-repeat;
+					opacity: 0.9;
+					background-position:  right center;
+					
+					}
+	
+
+
+@media print {
+* {
+    -webkit-print-color-adjust: exact !important; /*Chrome, Safari */
+    color-adjust: exact !important;  /*Firefox*/
+  }
+}
